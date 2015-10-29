@@ -1,1 +1,1 @@
-.FFFF..FFFFFFF
+.......FFFFFFF
